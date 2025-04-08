@@ -44,7 +44,7 @@ Whether you're working on small-scale applications or large, complex systems, ro
    Proceed with your project development as desired. The memory bank will automatically update to reflect changes in your project.
 
 8. **Force Synchronization**  
-   At any point, you can type "Update Memory Bank" or "UMB" in RooCode chat to manually synchronize the session’s information with the memory bank. This ensures continuity across sessions or before switching modes.
+   At any point, you can type `Update Memory Bank` or `UMB` in RooCode chat to manually synchronize the session’s information with the memory bank. This ensures continuity across sessions or before switching modes.
 
 ---
 
