@@ -1,14 +1,9 @@
 # roocode-workspace
 The roocode-workspace repository is a powerful and flexible workspace template designed specifically for developers using Roo Code. It provides an optimized environment to streamline project development through SPARC orchestration and AI-assisted workflows in Visual Studio Code (VS Code).
 
-This repository introduces enhanced modes that make it easier to develop, manage, and maintain your projects efficiently. By leveraging persistent project context and fine-tuned mode interactions, it minimizes token consumption while maximizing productivity. The result is a smoother, more cohesive development experience tailored to modern AI-driven workflows.
+This repository introduces enhanced modes that make it easier to develop, manage, and maintain your projects efficiently. By leveraging persistent project context and fine-tuned mode interactions, it minimizes token consumption while maximizing productivity.
 
-Building upon the foundational concepts of the Roo Code Memory Bank, roocode-workspace takes the next step by integrating a more advanced system of modes. These modes are designed to ensure that your AI assistant maintains a deep understanding of your project across sessions, even after interruptions or context resets.
-
-Whether you're working on small-scale applications or large, complex systems, roocode-workspace empowers you with tools to:
-- Maintain continuity in your development process.
-- Optimize interactions with AI tools for better results.
-- Reduce repetitive tasks and focus on building impactful solutions.
+**In short, this repository combines RooFlow's memory bank + RooFlow's boomerang mode + SPARC Orchestration modes (including memory bank).**
 
 ---
 
