@@ -16,7 +16,10 @@ This repository introduces enhanced modes that make it easier to develop, manage
 
 
 ## Usage
+### Requirements
+- Vscode as an editor
 
+### Instructions
 1. **Create a Repository from Template**  
    Click the `Use this template` button located at the top-right of the [repository page](https://github.com/enescingoz/roocode-workspace). This will allow you to create a new repository based on the template. 
   
