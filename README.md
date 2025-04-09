@@ -24,7 +24,7 @@ This repository introduces enhanced modes that make it easier to develop, manage
    After selecting the template, click the `Create a new repository` button to generate your own repository for the project.
 
 3. **Automatic Setup**  
-   All RooCode SPARC modes and memory bank configurations will be automatically added to your project.
+   All RooCode SPARC modes, RooFlow's boomerang mode and memory bank configurations will be automatically added to your project.
 
 4. **Clone and Open in VS Code**  
    Clone your newly created repository to your local machine and open it in Visual Studio Code.
@@ -36,7 +36,7 @@ This repository introduces enhanced modes that make it easier to develop, manage
    If this is your first time setting up the project, start by entering the command `initialize memory bank` in RooCode chat. This will automatically create a folder named `memory_bank` in your repository and generate necessary files within it.
 
 7. **Continue Development**  
-   Proceed with your project development as desired. The memory bank will automatically update to reflect changes in your project.
+   Proceed with your project development as desired while using the implemented modes. The memory bank will automatically update to reflect changes in your project.
 
 8. **Force Synchronization**  
    At any point, you can type `Update Memory Bank` or `UMB` in RooCode chat to manually synchronize the session’s information with the memory bank. This ensures continuity across sessions or before switching modes.
